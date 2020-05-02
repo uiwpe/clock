@@ -1,5 +1,5 @@
 {
-  "name": "@uiwpe/clock",
+  "name": "@uiwpe-clock",
   "version": "0.0.1",
   "description": "Clock",
   "main": "index.js",
